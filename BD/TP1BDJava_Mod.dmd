@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="TP1BDJava_Mod" id="5DD6B8CE-F85D-F007-BA09-CDD35ABBC7D0" version="3.5">
+<createdBy>201250541</createdBy>
+<createdTime>2015-04-21 18:38:37 UTC</createdTime>
+<generatorID>Généré par l&apos;utilisateur</generatorID>
+<ownerDesignName>TP1BDJava_Mod</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>5DD6B8CE-F85D-F007-BA09-CDD35ABBC7D0</designId>
+</OSDM_Design>
